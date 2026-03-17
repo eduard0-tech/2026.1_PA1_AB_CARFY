@@ -60,10 +60,13 @@ O **Carfy** centraliza essas informações em um único aplicativo simples e obj
 ---
 
 ## 👨‍💻 Autores
-
-- Emilio Charles 
+- Arthur Duarte
 - Estenio Gabriel
-- Luano Araujo
+- Emilio Charles 
+- Gustavo Silva
+- Luana Araujo
+- Luis Eduardo
+ 
 ## 🚀 Status
 
 Em fase de **Desenvolvimento de ideias e principios do projeto**.
