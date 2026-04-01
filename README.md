@@ -63,7 +63,7 @@ O **Carfy** centraliza essas informações em um único aplicativo simples e obj
 - Arthur Duarte
 - Estenio Gabriel
 - Emilio Charles 
-- Gustavo Silva
+- Gustavo Lemos
 - Luana Araujo
 - Luis Eduardo
  
