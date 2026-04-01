@@ -64,7 +64,7 @@ O **Carfy** centraliza essas informações em um único aplicativo simples e obj
 - Estenio Gabriel
 - Emilio Charles 
 - Gustavo Lemos
-- Luana Araujo
+- Luanna Araujo
 - Luis Eduardo
  
 ## 🚀 Status
