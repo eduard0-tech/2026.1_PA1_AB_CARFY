@@ -71,4 +71,6 @@ O **Carfy** centraliza essas informações em um único aplicativo simples e obj
 
 Em fase de **Desenvolvimento de ideias e principios do projeto**.
 
-Link dos produtos: https://car-fy-website.vercel.app/ - https://car-fy-website.vercel.app/
+Link dos produtos: 
+-  Versão Web: https://car-fy-website.vercel.app/
+-  Versão Mobile: https://carfymobile-lhzyc5myf-esteniogabriels-projects.vercel.app/
